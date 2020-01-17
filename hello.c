@@ -14,9 +14,9 @@ comment
 
 int main(void){   //void(can be left empty) means that no other value is needed for this code
 
-	printf("Tyler Messerschmidt");//only executable pieces of code require a ";" at the end of the line
+	printf("jay Patel");//only executable pieces of code require a ";" at the end of the line
 	printf("wil Koumaka");
-	Printf("computer engineering");
+	Printf("computer science");
 
 	return 0; //0(zero) means that the code is done and ready to executed
 
